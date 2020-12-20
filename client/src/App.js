@@ -37,7 +37,7 @@ const App = ({checkUserSession, currentUser}) => {
                         exact
                         path="/signin"
                         render={() =>
-                            this.props.currentUser ? (
+                            currentUser ? (
                                 <Redirect to="/" />
                             ) : (
                                 <SignInAndSignUpPage />
