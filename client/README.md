@@ -8,3 +8,5 @@
 * Fix the styling on the Google sign-in button
 * Make the titles for the collections in collection preview links, to go to the 
     single collection page
+* Fix the @media queries in global styles (padding) and menu item styles
+
