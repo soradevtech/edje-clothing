@@ -1,5 +1,5 @@
 {
-    "name": "3dg3-clothing-server",
+    "name": "edje-clothing-server",
     "version": "1.0.0",
     "engines": {
         "node": "10.23.0",
