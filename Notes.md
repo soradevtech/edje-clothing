@@ -6,3 +6,6 @@
 * Make the titles for the collections in collection preview links, to go to the 
     single collection page
 * Delete the old scss files
+* Check the image property in the StripeCheckout component in 
+    the stripe button component
+* Find a place to host my images
