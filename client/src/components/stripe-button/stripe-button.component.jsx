@@ -33,7 +33,7 @@ const StripeCheckoutButton = ({ price }) => {
             name="3DG3 Clothing Ltd."
             billingAddress
             shippingAddress
-            image="https://sendeyo.com/up/d/f3eb2117da"
+            image="https://sendeyo.com/up/d/f3eb2117da" // check back on this property
             description={`Your total is $${price}`}
             amount={priceForStripe}
             panelLabel="Pay Now"
