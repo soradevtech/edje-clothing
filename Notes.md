@@ -9,3 +9,5 @@
 * Check the image property in the StripeCheckout component in 
     the stripe button component
 * Find a place to host my images
+* Take a look into why compression breaks the site after 
+    making it pwa compliant
