@@ -1,4 +1,5 @@
 #### To-Do:
+* Migrate the to-dos in my course notes to here
 * Check store.js at the export default. I may need to set the object to a 
     variable first
 * Change the rest of the CSS in the app to styled-components
